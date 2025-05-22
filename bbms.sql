@@ -63,7 +63,7 @@ CREATE TABLE `donor` (
 --
 
 INSERT INTO `donor` (`id`, `name`, `fname`, `address`, `city`, `age`, `bgroup`, `email`, `mno`) VALUES
-(0, 'shahed', 'shamim', 'hksfh', 'hhf', 32, 'B+', 'jsjal', 'gkak');
+(0, 'shahed', 'shamim', 'Dhaka', 'Dhaka', 32, 'B+', 'shahed@gmail.com', '789456123');
 
 -- --------------------------------------------------------
 
