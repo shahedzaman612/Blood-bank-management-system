@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost';
+$host = 'db'; // <-- use the service name from docker-compose.yml
 $user = 'root';
 $pass = '';
 $db = 'mypro_bbms';
